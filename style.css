@@ -1,0 +1,121 @@
+#logo
+    {
+    margin: 0 auto;
+    height: 80px;
+    justify-items: auto;
+    padding-top: 45px;
+    justify-content: baseline;
+    position: absolute;
+    top: -3%;
+    left: 40px;
+    transform: translate(-50%); 
+    }
+.navbar{
+    background-color: rgb(14, 13, 13);
+    color: rgb(252, 252, 252);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-size-adjust: 50px;
+}
+.navbar a{
+    padding: 50px;
+    text-decoration: none;
+    color: rgb(233, 227, 227);
+}
+
+.video-container video {
+    min-width: 100%;
+    min-height: 100%;
+    object-fit: cover;
+    z-index: -1;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    z-index: 1;
+    position: 50%;
+    text-align: center; 
+
+  }
+  
+  footer {
+    background-color: #333;
+     color: white;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+      }
+
+
+      .my-image1 { 
+        height: 30%;
+        width: 20%
+        }
+
+        .my-image2 { 
+            height: 30%;
+            width: 20%
+            }
+
+            .my-image3 { 
+                height: 30%;
+                width: 20%
+                }
+
+                .my-image4 { 
+                    height: 30%;
+                    width: 20%
+                    }
+
+    .para p{
+        font-size: 25px ;
+
+    }
+
+    .my-image5 { 
+        height: 400px;
+        width: 350px;
+       
+        }
+
+        .my-image6 { 
+            height: 400px; 
+        width: 350px;          }
+
+        .navbar a{
+          font-size: 30px;  
+        }
+
+    .Paragraphsize
+    {
+        font-size: 20px;
+    }
+
+    .my-image7 { 
+        height: 30%; 
+    width: 25%;          }
+
+    .my-image8 { 
+        height: 30%; 
+    width: 25%;          }
+
+  .sell a phone P{
+    font-size: 20px;
+  }
+
+  .contactus{
+    font-size: 20px;
+
+  }
+
+  .scrollable {
+    height: 200px;
+    overflow-y: scroll;
+      }
